@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" role="img" aria-label="MacEx friendly folder mascot">
+<defs>
+  <linearGradient id="back" x1="0" y1="0" x2="0.75" y2="1"><stop offset="0" stop-color="#167DF8"/><stop offset="0.65" stop-color="#0968EA"/><stop offset="1" stop-color="#0865E8"/></linearGradient>
+  <linearGradient id="front" x1="0.08" y1="0.92" x2="0.94" y2="0.05"><stop offset="0" stop-color="#2260F8"/><stop offset="0.49" stop-color="#2796FB"/><stop offset="0.77" stop-color="#55C5FA"/><stop offset="1" stop-color="#58E8E0"/></linearGradient>
+  <linearGradient id="shadow" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B62E8"/><stop offset="1" stop-color="#0644C9"/></linearGradient>
+</defs>
+<!-- Smooth rounded back tab -->
+<path fill="url(#back)" d="M206 533 L206 358 C206 302 262 254 343 254 L475 254 C524 254 555 263 579 295 L596 320 C610 339 635 350 668 350 L881 350 C937 350 970 388 975 444 L997 533 Z"/>
+<!-- Visible inside folder opening -->
+<path fill="url(#shadow)" d="M201 500 C251 419 288 400 355 400 L409 400 C472 400 511 451 575 502 C601 525 618 528 625 526 C639 528 655 512 679 491 C737 436 782 400 843 400 L901 400 C974 400 1023 443 1044 524 L1044 570 L201 570 Z"/>
+<!-- Front flap with distinctive M-shaped upper edge -->
+<path fill="url(#front)" d="M199 535 C199 455 267 400 351 400 L400 400 C457 400 491 428 552 479 C598 517 613 527 625 526 C640 526 663 507 700 473 C761 416 792 400 855 400 L891 400 C983 400 1044 454 1044 544 L1044 848 C1044 938 984 998 896 998 L349 998 C259 998 199 935 199 847 Z"/>
+<!-- Face: dark eyes, one clean smile -->
+<ellipse cx="469" cy="660" rx="41" ry="63" fill="#092D61"/>
+<ellipse cx="777" cy="660" rx="41" ry="63" fill="#092D61"/>
+<path d="M532 777 Q623 860 714 777" fill="none" stroke="white" stroke-width="33" stroke-linecap="round"/>
+</svg>
